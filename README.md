@@ -3,7 +3,6 @@
 
 - 👯 I’m looking to collaborate on [StaffSphere](https://pf-front-end.vercel.app/)
 
-- 👨‍💻 All of my projects are available at [this github](this github)
 
 - 📫 How to reach me **pablocogno.5@gmail.com**
 
