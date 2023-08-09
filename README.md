@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pablo Cogno</h1>
 <h3 align="center">A passionate Fullstack developer</h3>
 
-- 👯 I’m looking to collaborate on [StaffSphere](https://pf-front-end.vercel.app/)
+- Project created in collaboration [StaffSphere](https://pf-front-end.vercel.app/)
 
 
 - 📫 How to reach me **pablocogno.5@gmail.com**
